@@ -15,3 +15,5 @@
 ### **[新闻摘要目录](./MORNING_NEWS.md)**
 
 ### **[昨日热榜目录](./HOTLIST.md)**
+
+![wechat](./imgs/banner.jpg)
