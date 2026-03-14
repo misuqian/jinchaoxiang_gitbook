@@ -4,7 +4,7 @@
 
 微信公众号：sustcrobot
 
-![wechat](http://mmbiz.qpic.cn/sz_mmbiz_png/dwric4ufUNbBdRHuiaNS4kiajkA4dBrfDHWGA5hm1aem3mJVdMy1LQQIaOibyAZgFPSBRXAaRDex2ibnBS1NEMtV7jI1IWLlnK9VX74C5osibcyr8/0?wx_fmt=png)
+![](http://mmbiz.qpic.cn/sz_mmbiz_png/dwric4ufUNbBdRHuiaNS4kiajkA4dBrfDHWGA5hm1aem3mJVdMy1LQQIaOibyAZgFPSBRXAaRDex2ibnBS1NEMtV7jI1IWLlnK9VX74C5osibcyr8/0?wx_fmt=png)
 
 # Gitbook说明
 
@@ -16,4 +16,4 @@
 
 ### **[昨日热榜目录](./HOTLIST.md)**
 
-![wechat](./imgs/banner.jpg)
+![](./imgs/banner.jpg)
