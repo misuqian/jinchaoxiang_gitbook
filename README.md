@@ -12,3 +12,6 @@
 
 [https://misuqian.gitbook.io/jin-chao-xiang](https://misuqian.gitbook.io/jin-chao-xiang)
 
+### **[新闻摘要目录](./MORNING_NEWS.md)**
+
+### **[昨日热榜目录](./HOTLIST.md)**
