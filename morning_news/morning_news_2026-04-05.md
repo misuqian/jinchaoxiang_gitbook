@@ -380,4 +380,4 @@ BuzzFeed全面押注AI导致巨额亏损与用户流失（去年净亏5730万、
 
 ---
 
-![banner](http://mmbiz.qpic.cn/sz_mmbiz_jpg/dwric4ufUNbBUGCnxia2Mu292YUKddJSMIiacAFnGjEibvEVsnISPzC83uWPHgBiarZBrsYOBWRLx7PC8FaQz6HDB7lW7L5rKjqolIoriazmNYzOI/0?wx_fmt=jpeg)
+![banner](http://mmbiz.qpic.cn/sz_mmbiz_jpg/dwric4ufUNbAKzl09uaJRCPsd1U3u5ya4X1eKx5AU6fzxbDrb1xLEh1kIo9bsSqU78aFhbzCbBIkhGZy4OBptMyScMKTMIqpqrFdtnuibBZR8/0?wx_fmt=jpeg)
