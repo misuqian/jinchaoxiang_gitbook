@@ -6,6 +6,7 @@
 
 # 目录
 
+* [新闻摘要2026/5/31](./morning_news/morning_news_2026-05-31.md)
 * [新闻摘要2026/5/30](./morning_news/morning_news_2026-05-30.md)
 * [新闻摘要2026/5/29](./morning_news/morning_news_2026-05-29.md)
 * [新闻摘要2026/5/28](./morning_news/morning_news_2026-05-28.md)
