@@ -2,6 +2,7 @@
 
 * [关于今潮向](README.md)
 * [新闻摘要](MORNING_NEWS.md)
+    * [新闻摘要2026/6/3](./morning_news/morning_news_2026-06-03.md)
     * [新闻摘要2026/6/2](./morning_news/morning_news_2026-06-02.md)
     * [新闻摘要2026/6/1](./morning_news/morning_news_2026-06-01.md)
     * [新闻摘要2026/5/31](./morning_news/morning_news_2026-05-31.md)
@@ -85,6 +86,7 @@
     * [新闻摘要2026/3/12](./morning_news/morning_news_2026-03-12.md)
     * [新闻摘要2026/3/11](./morning_news/morning_news_2026-03-11.md)
 * [昨日热榜](HOTLIST.md)
+    * [昨日热榜2026/6/3](./hotlist/hotlist_2026-06-03.md)
     * [昨日热榜2026/6/2](./hotlist/hotlist_2026-06-02.md)
     * [昨日热榜2026/6/1](./hotlist/hotlist_2026-06-01.md)
     * [昨日热榜2026/5/31](./hotlist/hotlist_2026-05-31.md)
