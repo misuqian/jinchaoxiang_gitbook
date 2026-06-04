@@ -6,6 +6,7 @@
 
 # 目录
 
+* [昨日热榜2026/6/5](./hotlist/hotlist_2026-06-05.md)
 * [昨日热榜2026/6/4](./hotlist/hotlist_2026-06-04.md)
 * [昨日热榜2026/6/3](./hotlist/hotlist_2026-06-03.md)
 * [昨日热榜2026/6/2](./hotlist/hotlist_2026-06-02.md)
