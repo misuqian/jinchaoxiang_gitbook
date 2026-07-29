@@ -2,6 +2,7 @@
 
 * [关于今潮向](README.md)
 * [新闻摘要](MORNING_NEWS.md)
+    * [新闻摘要2026/7/29](./morning_news/morning_news_2026-07-29.md)
     * [新闻摘要2026/7/28](./morning_news/morning_news_2026-07-28.md)
     * [新闻摘要2026/7/27](./morning_news/morning_news_2026-07-27.md)
     * [新闻摘要2026/7/26](./morning_news/morning_news_2026-07-26.md)
